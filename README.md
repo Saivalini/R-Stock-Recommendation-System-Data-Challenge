@@ -1,2 +1,2 @@
-# Appreciate
-Appreciate Data Challenge
+# R-Stock Recommendation System Data Challenge
+
